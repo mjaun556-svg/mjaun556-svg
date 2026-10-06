@@ -18,12 +18,14 @@ I work across the whole loop: market data feeds from 10+ venues, real-time tradi
 - [Perpetuals Insight Dashboard](https://github.com/mjaun556-svg/perps-insight-dashboard): L1/L2 terminal for about 1,700 equity perps on 10 venues
 - [Risk Alert Pipelines](https://github.com/mjaun556-svg/risk-alert-pipelines): exchange, ex-dividend and ADL alerts matched to live positions
 - [Quant Strategy Research](https://github.com/mjaun556-svg/quant-strategy-research): what I tested, what worked and what didn't
+- [Prediction Market Research](https://github.com/mjaun556-svg/prediction-market-research): venue-wide strategy search on Polymarket with an L2 recorder and quoting simulator
+- [Cricket Market Making Simulator](https://github.com/mjaun556-svg/cricket-market-making-sim): ball-by-ball win probability model and quote latency risk
 
 Code from my job is proprietary, so these repos have write-ups and screenshots only. Overview: [work-portfolio](https://github.com/mjaun556-svg/work-portfolio)
 
 ### Tools
 
-Python (asyncio, pandas, NumPy, FastAPI), JavaScript, SQL, ArcticDB, AWS, WebSockets
+Python (asyncio, pandas, NumPy, scikit-learn, FastAPI), JavaScript, SQL, ArcticDB, AWS, WebSockets
 
 Venues: Binance, OKX, Bybit, Deribit, Hyperliquid, Bitget, Gate.io, KuCoin, Aster, Polymarket
 
